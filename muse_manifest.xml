@@ -1,0 +1,83 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1535412206604">
+  <folder name="css">
+    <file name="site_global.css" crc="14225328"/>
+    <file name="index.css" crc="3923888435" ref="index"/>
+    <file name="iefonts_index.css" crc="4049102410" ref="index"/>
+    <file name="semana2.css" crc="111018770" ref="semana2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:semana2"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:tablet>index:index:semana2"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index:semana2"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:tablet>index:index:semana2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:tablet>index:index:semana2"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:tablet>index:index:semana2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:semana2"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:semana2"/>
+  </folder>
+  <folder name="images">
+    <file name="u5047-4.png" crc="4120975822" ref="index"/>
+    <file name="imagen niña.jpg" crc="298973360" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="descarga.jpg" crc="392776504" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ima.jpg" crc="4219843488" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="488628393" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5879-4.png" crc="4273202037" ref="index"/>
+    <file name="5.png" crc="3957967684" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="531592330" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8.jpg" crc="273805301" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="31169947" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4097411063" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9.jpg" crc="3916532223" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6177-4.png" crc="3898941781" ref="index"/>
+    <file name="hombre.jpg" crc="525424892" ref="semana2">
+      <caption webpage="semana2" alt=""/>
+    </file>
+    <file name="0.jpg" crc="4164393516" ref="semana2">
+      <caption webpage="semana2" alt=""/>
+    </file>
+    <file name="11.jpg" crc="3774721004" ref="semana2">
+      <caption webpage="semana2" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4046498137" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3859340760" seo="true" mt="1407282716505" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="263663261" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4145258174" seo="true" mt="1407282697538" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4291052642" seo="true" mt="1535411088995" redirect="true"/>
+  <file name="semana2.html" crc="4164535325" seo="true" mt="1535345760589" redirect="true"/>
+</manifest>
