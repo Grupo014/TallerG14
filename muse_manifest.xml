@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1535733174379">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1535737179697">
   <folder name="css">
     <file name="site_global.css" crc="14225328"/>
-    <file name="index.css" crc="302391500" ref="index"/>
+    <file name="index.css" crc="327458623" ref="index"/>
     <file name="iefonts_index.css" crc="4049102410" ref="index"/>
-    <file name="semana-2.css" crc="31993112" ref="semana-2"/>
+    <file name="semana-2.css" crc="280159848" ref="semana-2"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:semana-2"/>
@@ -56,9 +56,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u6177-4.png" crc="3898941781" ref="index"/>
-    <file name="hombre.jpg" crc="199499866" ref="semana-2">
-      <caption webpage="semana2" alt=""/>
+    <file name="hombre.jpg" crc="97298429" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana2" alt=""/>
     </file>
     <file name="u236-4.png" crc="434254782" ref="index"/>
     <file name="2-u5846-fr.jpg" crc="3822851479" ref="index"/>
@@ -113,6 +113,12 @@
     <file name="cap4.jpg" crc="64625085" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
+    <file name="tabla.jpg" crc="4216897634" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="tabla2.jpg" crc="404071143" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -126,6 +132,6 @@
     </folder>
     <file name="index.html" crc="4145258174" seo="true" mt="1407282697538" redirect="false"/>
   </folder>
-  <file name="index.html" crc="3835220111" seo="true" mt="1535731939834" redirect="true"/>
-  <file name="semana-2.html" crc="319417643" seo="true" mt="1535697719264" redirect="true"/>
+  <file name="index.html" crc="163766131" seo="true" mt="1535737131222" redirect="true"/>
+  <file name="semana-2.html" crc="241714862" seo="true" mt="1535737178411" redirect="true"/>
 </manifest>
