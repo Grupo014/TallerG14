@@ -1,25 +1,25 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1535412206604">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1535733174379">
   <folder name="css">
     <file name="site_global.css" crc="14225328"/>
-    <file name="index.css" crc="3923888435" ref="index"/>
+    <file name="index.css" crc="302391500" ref="index"/>
     <file name="iefonts_index.css" crc="4049102410" ref="index"/>
-    <file name="semana2.css" crc="111018770" ref="semana2"/>
+    <file name="semana-2.css" crc="31993112" ref="semana-2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:semana2"/>
-    <file name="museutils.js" crc="3803043152" ref="phone>index:tablet>index:index:semana2"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index:semana2"/>
-    <file name="museconfig.js" crc="380897831" ref="phone>index:tablet>index:index:semana2"/>
-    <file name="jquery.watch.js" crc="99325471" ref="phone>index:tablet>index:index:semana2"/>
-    <file name="require.js" crc="4157109226" ref="phone>index:tablet>index:index:semana2"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:semana2"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:semana-2"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:tablet>index:index:semana-2"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index:semana-2"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:tablet>index:index:semana-2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:tablet>index:index:semana-2"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:tablet>index:index:semana-2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:semana-2"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:semana-2"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:semana2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:semana-2"/>
   </folder>
   <folder name="images">
     <file name="u5047-4.png" crc="4120975822" ref="index"/>
@@ -33,10 +33,10 @@
     <file name="ima.jpg" crc="4219843488" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2.jpg" crc="488628393" ref="index">
+    <file name="2.jpg" crc="81858495" ref="semana-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="u5879-4.png" crc="4273202037" ref="index"/>
     <file name="5.png" crc="3957967684" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -56,14 +56,62 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u6177-4.png" crc="3898941781" ref="index"/>
-    <file name="hombre.jpg" crc="525424892" ref="semana2">
+    <file name="hombre.jpg" crc="199499866" ref="semana-2">
       <caption webpage="semana2" alt=""/>
+      <caption webpage="semana-2" alt=""/>
     </file>
-    <file name="0.jpg" crc="4164393516" ref="semana2">
-      <caption webpage="semana2" alt=""/>
+    <file name="u236-4.png" crc="434254782" ref="index"/>
+    <file name="2-u5846-fr.jpg" crc="3822851479" ref="index"/>
+    <file name="12.jpg" crc="4078660499" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="11.jpg" crc="3774721004" ref="semana2">
-      <caption webpage="semana2" alt=""/>
+    <file name="u6671-4.png" crc="436772338" ref="index"/>
+    <file name="fondo.jpg" crc="127436447" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="captura.jpg" crc="3952726893" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="cap2.jpg" crc="4197924058" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="ottobock.jpg" crc="3761410481" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="p_15-1.jpg" crc="332581834" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="pixed 2.jpg" crc="38365799" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="cap 3.jpg" crc="415835097" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="girab.jpg" crc="4070763143" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="musculos-antebrazo-5-728.jpg" crc="4097070026" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="13.jpg" crc="249204593" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="14.jpg" crc="274380245" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="15.jpg" crc="3978783495" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="16.jpg" crc="4275215637" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="cap3.jpg" crc="3825792798" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="cap4.jpg" crc="64625085" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
     </file>
   </folder>
   <folder name="tablet">
@@ -78,6 +126,6 @@
     </folder>
     <file name="index.html" crc="4145258174" seo="true" mt="1407282697538" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4291052642" seo="true" mt="1535411088995" redirect="true"/>
-  <file name="semana2.html" crc="4164535325" seo="true" mt="1535345760589" redirect="true"/>
+  <file name="index.html" crc="3835220111" seo="true" mt="1535731939834" redirect="true"/>
+  <file name="semana-2.html" crc="319417643" seo="true" mt="1535697719264" redirect="true"/>
 </manifest>
