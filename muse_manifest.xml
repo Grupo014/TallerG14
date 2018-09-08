@@ -1,26 +1,29 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1535812627634">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1536412715362">
+  <folder name="assets">
+    <file name="requerimentos-de-diseño.pdf" crc="4143669608" seo="true" mt="1536380169000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="14225328"/>
     <file name="index.css" crc="3783970853" ref="index"/>
     <file name="iefonts_index.css" crc="4049102410" ref="index"/>
-    <file name="semana-2.css" crc="3998998465" ref="semana-2"/>
-    <file name="plan-de-trabajo.css" crc="242201778" ref="plan-de-trabajo"/>
+    <file name="semana-2.css" crc="4018519518" ref="semana-2"/>
+    <file name="semana-3.css" crc="182591493" ref="semana-3"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:semana-2:plan-de-trabajo"/>
-    <file name="museutils.js" crc="3803043152" ref="phone>index:tablet>index:index:semana-2:plan-de-trabajo"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index:semana-2:plan-de-trabajo"/>
-    <file name="museconfig.js" crc="380897831" ref="phone>index:tablet>index:index:semana-2:plan-de-trabajo"/>
-    <file name="jquery.watch.js" crc="99325471" ref="phone>index:tablet>index:index:semana-2:plan-de-trabajo"/>
-    <file name="require.js" crc="4157109226" ref="phone>index:tablet>index:index:semana-2:plan-de-trabajo"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:semana-2"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:semana-2:semana-3"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:tablet>index:index:semana-2:semana-3"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index:semana-2:semana-3"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:tablet>index:index:semana-2:semana-3"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:tablet>index:index:semana-2:semana-3"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:tablet>index:index:semana-2:semana-3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:semana-2:semana-3"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:semana-2"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:semana-2:plan-de-trabajo"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:semana-2:semana-3"/>
   </folder>
   <folder name="images">
     <file name="u5047-4.png" crc="4120975822" ref="index"/>
@@ -67,11 +70,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u6671-4.png" crc="436772338" ref="index"/>
-    <file name="fondo.jpg" crc="127436447" ref="semana-2">
-      <caption webpage="semana-2" alt=""/>
-      <caption webpage="semana-2" alt=""/>
-      <caption webpage="semana-2" alt=""/>
-    </file>
     <file name="captura.jpg" crc="3952726893" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
@@ -120,6 +118,15 @@
     <file name="tabla2.jpg" crc="404071143" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
     </file>
+    <file name="diagrama de ganhtt.jpg" crc="3934651798" ref="semana-3">
+      <caption webpage="semana-3" alt=""/>
+    </file>
+    <file name="17.jpg" crc="49337626" ref="semana-3">
+      <caption webpage="semana-3" alt=""/>
+    </file>
+    <file name="tabla3.jpg" crc="4182264488" ref="semana-3">
+      <caption webpage="semana-3" alt=""/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -133,7 +140,7 @@
     </folder>
     <file name="index.html" crc="4145258174" seo="true" mt="1407282697538" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4191585747" seo="true" mt="1535811964716" redirect="true"/>
-  <file name="semana-2.html" crc="3924025508" seo="true" mt="1535811971238" redirect="true"/>
-  <file name="plan-de-trabajo.html" crc="3785256350" seo="true" mt="1535812274263" redirect="true"/>
+  <file name="index.html" crc="443367855" seo="true" mt="1536411859321" redirect="true"/>
+  <file name="semana-2.html" crc="307034928" seo="true" mt="1536381106529" redirect="true"/>
+  <file name="semana-3.html" crc="4210928055" seo="true" mt="1536412151499" redirect="true"/>
 </manifest>
