@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1538225605754">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1538226236128">
   <folder name="assets">
     <file name="requerimentos-de-diseño.pdf" crc="4143669608" seo="true" mt="1536380169000"/>
     <file name="cuadro1.bmp" crc="4165713083" seo="true" mt="1537053926000"/>
@@ -175,7 +175,7 @@
     </folder>
     <file name="index.html" crc="4145258174" seo="true" mt="1407282697538" redirect="false"/>
   </folder>
-  <file name="index.html" crc="490555348" seo="true" mt="1538225603561" redirect="true"/>
+  <file name="index.html" crc="4260720550" seo="true" mt="1538226160658" redirect="true"/>
   <file name="semana-2.html" crc="4012430597" seo="true" mt="1538225603737" redirect="true"/>
   <file name="semana-3.html" crc="4087970249" seo="true" mt="1537637809182" redirect="true"/>
   <file name="semana-4.html" crc="410035966" seo="true" mt="1537627107783" redirect="true"/>
