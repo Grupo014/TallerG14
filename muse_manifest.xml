@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1538701965601">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1538702782185">
   <folder name="assets">
     <file name="requerimentos-de-diseño.pdf" crc="4143669608" seo="true" mt="1536380169000"/>
     <file name="cuadro1.bmp" crc="4165713083" seo="true" mt="1537053926000"/>
@@ -10,14 +10,14 @@
     <file name="semana-2.css" crc="3860110377" ref="semana-2"/>
     <file name="semana-3.css" crc="166614642" ref="semana-3"/>
     <file name="semana-4.css" crc="169229067" ref="semana-4"/>
-    <file name="semana-5.css" crc="4050133263" ref="semana-5"/>
+    <file name="semana-5.css" crc="498231785" ref="semana-5"/>
     <file name="semana-1.css" crc="256980752" ref="semana-1"/>
-    <file name="semana-6.css" crc="4240879226" ref="semana-6"/>
+    <file name="semana-6.css" crc="4044660287" ref="semana-6"/>
     <file name="iefonts_semana-2.css" crc="3828192482" ref="semana-2"/>
     <file name="iefonts_semana-1.css" crc="3984207363" ref="semana-1"/>
     <file name="iefonts_semana-4.css" crc="3794234213" ref="semana-4"/>
     <file name="iefonts_semana-5.css" crc="4259593503" ref="semana-5"/>
-    <file name="iefonts_semana-6.css" crc="3910329086" ref="semana-6"/>
+    <file name="iefonts_semana-6.css" crc="4029164552" ref="semana-6"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:semana-2:semana-3:semana-4:semana-1:semana-5:semana-6"/>
@@ -33,7 +33,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="index:semana-2:semana-5"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:semana-3:semana-4:semana-1:semana-6"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:semana-3:semana-4:semana-1"/>
   </folder>
   <folder name="images">
     <file name="imagen niña.jpg" crc="298973360" ref="index">
@@ -150,6 +150,6 @@
   <file name="semana-3.html" crc="4087970249" seo="true" mt="1537637809182" redirect="true"/>
   <file name="semana-4.html" crc="4000221115" seo="true" mt="1538606415918" redirect="true"/>
   <file name="semana-1.html" crc="352593563" seo="true" mt="1538603189513" redirect="true"/>
-  <file name="semana-5.html" crc="3791940919" seo="true" mt="1538701964883" redirect="true"/>
-  <file name="semana-6.html" crc="4269225272" seo="true" mt="1538669337623" redirect="true"/>
+  <file name="semana-5.html" crc="312110278" seo="true" mt="1538702217531" redirect="true"/>
+  <file name="semana-6.html" crc="132394371" seo="true" mt="1538702766105" redirect="true"/>
 </manifest>
