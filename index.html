@@ -16,10 +16,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=14225328"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=222477381" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=153609020" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=195386167"/>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=4276914946"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -201,7 +201,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
             <p>Diseño modular y materiales</p>
            </div>
           </div>
-          <div class="colelem" id="u6154"><!-- simple frame --></div>
+          <div class="clearfix colelem" id="u6154"><!-- group -->
+           <div class="pointer_cursor clearfix grpelem" id="u11103"><!-- column -->
+            <a class="block" href="semana-10.html"><!-- Block link tag --></a>
+            <a class="nonblock nontext rgba-background clearfix colelem" id="u11106-4" href="semana-10.html"><!-- content --><p>SEMANA 10</p></a>
+            <div class="clearfix colelem" id="u11109-4"><!-- content -->
+             <p>Fabricación de módulos complementarios</p>
+            </div>
+           </div>
+          </div>
          </div>
          <div class="clearfix grpelem" id="pu6157"><!-- column -->
           <div class="clearfix colelem" id="u6157"><!-- group -->
@@ -249,7 +257,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <div class="clearfix grpelem" id="u5362-3"><!-- content -->
     <p>&nbsp;</p>
    </div>
-   <div class="verticalspacer" data-offset-top="1674" data-content-above-spacer="1673" data-content-below-spacer="815"></div>
+   <div class="verticalspacer" data-offset-top="1677" data-content-above-spacer="1676" data-content-below-spacer="815"></div>
   </div>
   <div class="preload_images">
    <img class="preload" src="images/imagen%20ni%c3%b1a.jpg?crc=298973360" alt=""/>
@@ -274,11 +282,11 @@ Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(el
 Muse.Utils.initWidget('#pamphletu5165', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'mouseover',deactivationEvent:'none',autoPlay:true,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu5165 */
 Muse.Utils.initWidget('#pamphletu6008', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu6008 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u3989').registerPositionScrollEffect([{"in":[-Infinity,128.1],"speed":[0,2]},{"in":[128.1,Infinity],"speed":[0,1]}]);/* scroll effect */
-$('#u4009').registerPositionScrollEffect([{"in":[-Infinity,360.95],"speed":[0,2]},{"in":[360.95,Infinity],"speed":[0,1]}]);/* scroll effect */
-$('#u4030').registerPositionScrollEffect([{"in":[-Infinity,380.95],"speed":[0,2]},{"in":[380.95,Infinity],"speed":[0,1]}]);/* scroll effect */
-$('#u4048').registerPositionScrollEffect([{"in":[-Infinity,208.05],"speed":[0,2]},{"in":[208.05,Infinity],"speed":[0,1]}]);/* scroll effect */
-$('#u5368').registerPositionScrollEffect([{"in":[-Infinity,188.02],"speed":[0,2]},{"in":[188.02,Infinity],"speed":[0,1]}]);/* scroll effect */
+$('#u3989').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,128.1]},{"speed":[0,1],"in":[128.1,Infinity]}]);/* scroll effect */
+$('#u4009').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,360.95]},{"speed":[0,1],"in":[360.95,Infinity]}]);/* scroll effect */
+$('#u4030').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,380.95]},{"speed":[0,1],"in":[380.95,Infinity]}]);/* scroll effect */
+$('#u4048').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,208.05]},{"speed":[0,1],"in":[208.05,Infinity]}]);/* scroll effect */
+$('#u5368').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,188.02]},{"speed":[0,1],"in":[188.02,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
