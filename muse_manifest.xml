@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1540582970621">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1540654233386">
   <folder name="assets">
     <file name="requerimentos-de-diseño.pdf" crc="4143669608" seo="true" mt="1536380169000"/>
     <file name="cuadro1.bmp" crc="4165713083" seo="true" mt="1537053926000"/>
@@ -19,7 +19,7 @@
     <file name="iefonts_semana-5.css" crc="3880596920" ref="semana-5"/>
     <file name="semana-7.css" crc="3934735748" ref="semana-7"/>
     <file name="iefonts_semana-7.css" crc="4029164552" ref="semana-7"/>
-    <file name="semana-8.css" crc="4130976348" ref="semana-8"/>
+    <file name="semana-8.css" crc="4142018989" ref="semana-8"/>
     <file name="iefonts_semana-6.css" crc="524612586" ref="semana-6"/>
     <file name="semana-9.css" crc="3971019371" ref="semana-9"/>
   </folder>
@@ -148,7 +148,7 @@
     <file name="parte solida final.jpg" crc="4226495141" ref="semana-8">
       <caption webpage="semana-8" alt=""/>
     </file>
-    <file name="interfaz final.jpg" crc="3998956349" ref="semana-8">
+    <file name="interfaz final.jpg" crc="319160652" ref="semana-8">
       <caption webpage="semana-8" alt=""/>
     </file>
     <file name="correas.jpg" crc="4106636089" ref="semana-9">
@@ -156,6 +156,12 @@
     </file>
     <file name="correas final.jpg" crc="87264114" ref="semana-9">
       <caption webpage="semana-9" alt=""/>
+    </file>
+    <file name="interfas z .jpg" crc="274217489" ref="semana-8">
+      <caption webpage="semana-8" alt=""/>
+    </file>
+    <file name="interfaz x.jpg" crc="214756393" ref="semana-8">
+      <caption webpage="semana-8" alt=""/>
     </file>
   </folder>
   <folder name="tablet">
@@ -178,6 +184,6 @@
   <file name="semana-5.html" crc="4229128277" seo="true" mt="1539443390417" redirect="true"/>
   <file name="semana-6.html" crc="47496665" seo="true" mt="1539447296113" redirect="true"/>
   <file name="semana-7.html" crc="3921435548" seo="true" mt="1540509893610" redirect="true"/>
-  <file name="semana-8.html" crc="4060997518" seo="true" mt="1540571535006" redirect="true"/>
-  <file name="semana-9.html" crc="311891918" seo="true" mt="1540582969216" redirect="true"/>
+  <file name="semana-8.html" crc="4207141054" seo="true" mt="1540654232512" redirect="true"/>
+  <file name="semana-9.html" crc="311891918" seo="true" mt="1540654232255" redirect="true"/>
 </manifest>
