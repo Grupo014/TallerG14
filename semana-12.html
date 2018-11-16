@@ -10,19 +10,23 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "semana-12.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "require.js", "semana-12.css"], "outOfDate":[]};
 </script>
   
   <title>Semana 12</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=14225328"/>
-  <link rel="stylesheet" type="text/css" href="css/semana-12.css?crc=3956202691" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/semana-12.css?crc=197158295" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_semana-12.css?crc=3881158630"/>
+  <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
-  <script src="https://webfonts.creativecloud.com/open-sans:n4:all.js" type="text/javascript"></script>
+  <script src="https://webfonts.creativecloud.com/open-sans:n4:all;cantarell:n7,n4:all.js" type="text/javascript"></script>
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
@@ -36,11 +40,42 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
     <div class="colelem" id="u11628"><!-- simple frame --></div>
     <div class="rgba-background clearfix colelem" id="u11646-4"><!-- content -->
-     <p>Prototipo 3</p>
+     <p>Prototipo Final</p>
+    </div>
+    <div class="clearfix colelem" id="u12100-6"><!-- content -->
+     <p id="u12100-4"><span id="u12100">1.Diseño</span><span id="u12100-2">: </span><span id="u12100-3">En la semana 12, se imprimio por tercera vez las interfaces X,Y, Z&nbsp; y la parte sólida en material de PLA a 35%.En esta impresión, no tuvimos problemas con las medidas ya que todo el sistema encajo.Añadimos el sistema enmallado conectado a la interfaz X, cuyas intersecciones fueron cosidas con hilo de nylon para una mayor resistencia al momento de cargar peso.</span></p>
+    </div>
+    <div class="clearfix colelem" id="pu12103-4"><!-- group -->
+     <div class="clearfix grpelem" id="u12103-4"><!-- content -->
+      <p>Figura 1.1</p>
+     </div>
+     <div class="clearfix grpelem" id="u12106-4"><!-- content -->
+      <p>Figura 1.2</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu12109-4"><!-- group -->
+     <div class="clearfix grpelem" id="u12109-4"><!-- content -->
+      <p>Figura 1.3</p>
+     </div>
+     <div class="clearfix grpelem" id="u12112-4"><!-- content -->
+      <p>Figura 1.4</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="u12115-8"><!-- content -->
+     <p>1.Primera prueba de funcinamiento</p>
+     <p>&nbsp; <span id="u12115-4"> Al tener el sistema de enmallado ya elaborado</span></p>
+     <p>&nbsp;</p>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="149" data-content-above-spacer="149" data-content-below-spacer="816"></div>
-   <div class="grpelem" id="u11655"><!-- content --></div>
+   <div class="verticalspacer" data-offset-top="1077" data-content-above-spacer="1077" data-content-below-spacer="1048"></div>
+   <div class="clearfix grpelem" id="pu12053"><!-- column -->
+    <div class="museBGSize colelem" id="u12053"><!-- content --></div>
+    <div class="museBGSize colelem" id="u12078"><!-- content --></div>
+   </div>
+   <div class="clearfix grpelem" id="pu12064"><!-- column -->
+    <div class="museBGSize colelem" id="u12064"><!-- content --></div>
+    <div class="museBGSize colelem" id="u12089"><!-- content --></div>
+   </div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -53,7 +88,7 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
