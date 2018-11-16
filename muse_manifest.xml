@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1542383516138">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1542395865945">
   <folder name="assets">
     <file name="requerimentos-de-diseño.pdf" crc="4143669608" seo="true" mt="1536380169000"/>
     <file name="cuadro1.bmp" crc="4165713083" seo="true" mt="1537053926000"/>
@@ -25,11 +25,11 @@
     <file name="semana-9.css" crc="4144411643" ref="semana-9"/>
     <file name="semana-10.css" crc="4087881277" ref="semana-10"/>
     <file name="semana-11.css" crc="276219794" ref="semana-11"/>
-    <file name="semana-12.css" crc="197158295" ref="semana-12"/>
+    <file name="semana-12.css" crc="419256709" ref="semana-12"/>
     <file name="iefonts_semana-11.css" crc="99808829" ref="semana-11"/>
     <file name="iefonts_semana-9.css" crc="3760543394" ref="semana-9"/>
     <file name="iefonts_semana-10.css" crc="4037877113" ref="semana-10"/>
-    <file name="iefonts_semana-12.css" crc="3881158630" ref="semana-12"/>
+    <file name="iefonts_semana-12.css" crc="27081939" ref="semana-12"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:semana-2:semana-3:semana-4:semana-1:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12"/>
@@ -45,7 +45,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="index:semana-2:semana-5"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:semana-3:semana-1:semana-7:semana-5:semana-11:semana-8:semana-9:semana-10:semana-12"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:semana-3:semana-1:semana-7:semana-5:semana-11:semana-8:semana-9:semana-10"/>
   </folder>
   <folder name="images">
     <file name="imagen niña.jpg" crc="298973360" ref="index">
@@ -224,6 +224,25 @@
     <file name="parte solida final final.jpg" crc="101918074" ref="semana-12">
       <caption webpage="semana-12" alt=""/>
     </file>
+    <file name="complemento-semana12-u12118-fr.jpg" crc="394933461" ref="semana-12"/>
+    <file name="mallas semana12.jpg" crc="519669465" ref="semana-12">
+      <caption webpage="semana-12" alt=""/>
+    </file>
+    <file name="complemento-semana12.jpg" crc="345906435" ref="semana-12">
+      <caption webpage="semana-12" alt=""/>
+    </file>
+    <file name="contraccion semana12.jpg" crc="530803689" ref="semana-12">
+      <caption webpage="semana-12" alt=""/>
+    </file>
+    <file name="estiramiento semana12.jpg" crc="3883652488" ref="semana-12">
+      <caption webpage="semana-12" alt=""/>
+    </file>
+    <file name="diametro semana 12.jpg" crc="3979778548" ref="semana-12">
+      <caption webpage="semana-12" alt=""/>
+    </file>
+    <file name="prueba semana12.jpg" crc="123723077" ref="semana-12">
+      <caption webpage="semana-12" alt=""/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -249,5 +268,5 @@
   <file name="semana-9.html" crc="4253095859" seo="true" mt="1542209566329" redirect="true"/>
   <file name="semana-10.html" crc="381190342" seo="true" mt="1542383513957" redirect="true"/>
   <file name="semana-11.html" crc="219272025" seo="true" mt="1542383514259" redirect="true"/>
-  <file name="semana-12.html" crc="3983663512" seo="true" mt="1542383514519" redirect="true"/>
+  <file name="semana-12.html" crc="436237132" seo="true" mt="1542395853349" redirect="true"/>
 </manifest>
